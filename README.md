@@ -3,15 +3,15 @@
 name: Task Creation Template about: Describe this issue template's purpose here. title: '' labels: '' assignees: ''
 
 
-## Task Owner (Responsible): [First Name, Last Initial]
+## Task Owner (Responsible): Eric
 
-## Task Assignee (Accountable): [First Name, Last Initial]
+## Task Assignee (Accountable): Eric
 
 ## Task Deadline: [MM/DD/YYYY]
 
 ## Task Description:
 
-***Clearly describe the task, including what needs to be done and why.***
+***Greet users and check their names***
 
 ## Acceptance Criteria:
 
@@ -27,11 +27,11 @@ name: Task Creation Template about: Describe this issue template's purpose here.
 
 ## Priority:
 
-***Assign a priority level to each task based on its importance and impact on the project. Prioritize tasks within the backlog or sprint.***
+***High Priority***
 
 ## Task Type:
 
-***Categorize tasks based on their type (e.g., development, testing, design). This helps in planning and resource allocation.***
+***Research/Sourcing***
 
 ## Subtasks:
 
