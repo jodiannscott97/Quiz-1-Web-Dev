@@ -1,17 +1,25 @@
-# Quiz-1-Web-Dev
+---
+name: Task Doc Creation
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
 
 name: Task Creation Template about: Describe this issue template's purpose here. title: '' labels: '' assignees: ''
 
 
-## Task Owner (Responsible): Eric
 
-## Task Assignee (Accountable): Eric
+## Task Owner (Responsible): [First Name, Last Initial]
+
+## Task Assignee (Accountable): [First Name, Last Initial]
 
 ## Task Deadline: [MM/DD/YYYY]
 
 ## Task Description:
 
-***Greet users and check their names***
+***Clearly describe the task, including what needs to be done and why.***
 
 ## Acceptance Criteria:
 
@@ -27,11 +35,11 @@ name: Task Creation Template about: Describe this issue template's purpose here.
 
 ## Priority:
 
-***High Priority***
+***Assign a priority level to each task based on its importance and impact on the project. Prioritize tasks within the backlog or sprint.***
 
 ## Task Type:
 
-***Research/Sourcing***
+***Categorize tasks based on their type (e.g., development, testing, design). This helps in planning and resource allocation.***
 
 ## Subtasks:
 
